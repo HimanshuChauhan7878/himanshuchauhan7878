@@ -1,110 +1,95 @@
-# Himanshu Chauhan
+<h1 align="center">Hey, I'm Himanshu Chauhan 👋</h1>
 
-**Integrated M.Tech (Artificial Intelligence)**  
-AI / Machine Learning | Automation | Computer Vision  
+<p align="center">
+  <b>AI Engineer in the making</b> • Machine Learning • Computer Vision • Automation
+</p>
 
-I am an AI-focused engineer with strong foundations in machine learning, computer vision,
-and backend automation. I enjoy building intelligent systems that are practical, scalable,
-and grounded in real-world impact.
-
----
-
-## 🎓 Education
-**VIT Bhopal University, Sehore (M.P.)**  
-Integrated M.Tech in Artificial Intelligence  
-**CGPA:** 8.52 / 10  
-*Oct 2022 – Jun 2027*
-
----
-
-## 🧠 Core Skills
-
-### Programming
-- Python, Java, C++
-
-### Machine Learning & Data
-- Pandas, NumPy, Matplotlib
-- Supervised & applied ML workflows
-
-### Computer Vision
-- OpenCV, MediaPipe
-- Panoptic & semantic segmentation
-- Real-time gesture recognition
-
-### Core CS
-- Object-Oriented Programming
-- DBMS, Operating Systems
-- Data Structures & Algorithms
-
-### Databases & Tools
-- MongoDB, SQL
-- Git, GitHub, AWS Cloud
-- VS Code, Jupyter, Google Colab
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshu-chauhan1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:himanshu34484@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://github.com/himanshuchauhan7878">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github">
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshuchauhan7878&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchauhan7878&layout=compact&theme=tokyonight)
+## 🚀 Who am I?
+I’m an **Integrated M.Tech (AI)** student at VIT Bhopal who enjoys building
+**intelligent systems** that actually work in the real world.
+
+I like projects where **AI meets engineering** — automation, computer vision,
+and applied machine learning with measurable impact.
 
 ---
 
-## 📈 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=himanshuchauhan7878&theme=tokyonight)
+## 🧠 What I’m Good At
+- Designing ML pipelines and experimenting with models  
+- Computer vision systems (real-time + deep learning)  
+- Automation using Python, Selenium, and APIs  
+- Strong fundamentals in CS (DSA, DBMS, OS, OOP)  
 
 ---
 
-## 🔥 Featured Projects
+## 🧩 Featured Projects (Things I’m Proud Of)
 
 ### 🤖 LinkedIn Post Automation
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchauhan7878&repo=linkedin-post-automation&theme=tokyonight)](https://github.com/HimanshuChauhan7878/linkedin-post-automation)
-- Built an AI-driven LinkedIn automation agent using Python and Selenium  
-- Implemented LLM-based content generation using Ollama with CLI-based execution  
-- Added robust automation: dynamic XPath handling, popup detection, session persistence  
+AI-powered LinkedIn automation agent with LLM-based content generation,
+robust browser automation, and CLI-based execution.
 
 ---
 
-### 🧩 Autism Skills Training Games (ASD)
+### 🧠 Autism Skills Training (ASD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchauhan7878&repo=ASD&theme=tokyonight)](https://github.com/HimanshuChauhan7878/ASD)
-- Developed **3+ interactive ASD training games**, tested with **15 children**  
-- Achieved **sub-200ms real-time gesture recognition** using OpenCV & MediaPipe  
-- Improved task accuracy by **30%** and engagement by **40%** through gamification  
+Interactive AI-driven therapy games using real-time gesture recognition.
+Tested with children, achieving **30% accuracy improvement** and **40% higher engagement**.
 
 ---
 
 ### 🖼️ Panoptic Image Segmentation
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchauhan7878&repo=Panoptic-Image-Segmentation&theme=tokyonight)](https://github.com/HimanshuChauhan7878/Panoptic-Image-Segmentation)
-- Built a panoptic segmentation pipeline using **Detectron2 & PyTorch**  
-- Achieved **98% accuracy** on a custom **1000-image annotated dataset**  
-- Evaluated results using qualitative and quantitative metrics  
+Deep learning–based segmentation pipeline built with Detectron2,
+trained on a custom dataset and achieving **98% accuracy**.
 
 ---
 
-## 🏆 Achievements
-- Kaggle API Dataset Creator  
-- Solved **100+ DSA problems** on LeetCode  
-- Led a team of **5** in Codefest 2025 — **Top 10 out of 150 teams**  
-- Conference Paper (Under Review):  
-  **ICRAIME 2025 — Early Detection of ASD Traits**
+## 🛠 Tech I Use
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-Strong-orange?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/C++-Good-blue?style=flat-square&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Active-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=git"/>
+</p>
 
 ---
 
-## 🧪 Hackathons
-- **MERN × AI Hackathon (2025):** Designed ML benchmarking tool *Benchforge*  
-- **Summer of Codefest 2025 (Unstop):** Built full-stack event platform *Eventra*  
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshuchauhan7878&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=himanshuchauhan7878&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-## 📜 Certifications
-- **Applied Machine Learning in Python** — University of Michigan  
+## 🏆 Wins & Recognition
+- 🏅 **Top 10 / 150 teams** — Codefest 2025  
+- 📄 **ICRAIME 2025 paper** (under review): *Early Detection of ASD Traits*  
+- 📊 Kaggle API Dataset Creator  
+- 💻 100+ DSA problems solved on LeetCode  
 
 ---
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/himanshu-chauhan1/
-- 🌐 GitHub: https://github.com/himanshuchauhan7878
-- 📧 Email: himanshu34484@gmail.com  
+## 🤝 Let’s Build Something Cool
+If you’re into **AI, automation, or impactful tech**,  
+feel free to reach out — I’m always open to collaboration.
 
----
-
-⭐ *Focused on depth, research-driven development, and real-world AI impact.*
+<p align="center">
+  <i>Build things. Break them. Learn fast.</i>
+</p>
