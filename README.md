@@ -60,15 +60,28 @@ trained on a custom dataset and achieving **98% accuracy**.
 ---
 
 ## 🛠 Tech I Use
-<p>
-  <img src="https://img.shields.io/badge/Python-Strong-blue?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/NumPy-Pandas-Data%20Prep-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Matplotlib-SciPy-Visualization-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Java-Strong-orange?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/C++-Good-blue?style=flat-square&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=git"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Detectron2-000000?style=flat-square"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
+
 
 ---
 
