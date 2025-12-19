@@ -1,48 +1,30 @@
-# Himanshu Chauhan
-
-**Integrated M.Tech (Artificial Intelligence)**  
-AI-Focused Developer | Backend & Full-Stack (MERN)
-
-I build intelligent, scalable systems that combine machine learning with 
-clean backend architecture and real-world usability.
-
----
-
-## 🧠 Core Expertise
-- Artificial Intelligence & Machine Learning
-- Backend Engineering & API Design
-- Full-Stack Web Development (MERN)
-- Data Modeling & System Architecture
-
----
-
-## 🛠️ Tech Stack
-**Languages:** Java, Python, JavaScript  
-**Frontend:** React.js, HTML, CSS  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, PostgreSQL  
-**AI / ML:** Scikit-learn, NumPy, Pandas  
-**Tools:** Git, GitHub, Docker, Postman  
-
----
-
-## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshuchauhan7878&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchauhan7878&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=himanshuchauhan7878&theme=tokyonight)
-
----
-
 ## 🔥 Featured Projects
 
 ### 🏥 Disease Prediction System (AI + Full Stack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchauhan7878&repo=disease-prediction-system&theme=tokyonight)](https://github.com/himanshuchauhan7878/disease-prediction-system)
 - ML-powered healthcare prediction platform  
 - Secure MERN architecture with AI inference  
+
+---
+
+### 🤖 LinkedIn Post Automation
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchauhan7878&repo=linkedin-post-automation&theme=tokyonight)](https://github.com/HimanshuChauhan7878/linkedin-post-automation)
+- Automated LinkedIn post generation & publishing  
+- Focus on workflow automation and API-based integration  
+
+---
+
+### 🧩 Autism Spectrum Disorder (ASD) Analysis
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchauhan7878&repo=ASD&theme=tokyonight)](https://github.com/HimanshuChauhan7878/ASD)
+- ML-based analysis related to Autism Spectrum Disorder  
+- Emphasis on data preprocessing and model evaluation  
+
+---
+
+### 🖼️ Panoptic Image Segmentation
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchauhan7878&repo=Panoptic-Image-Segmentation&theme=tokyonight)](https://github.com/HimanshuChauhan7878/Panoptic-Image-Segmentation)
+- Computer vision project combining semantic & instance segmentation  
+- Focus on deep learning and visual understanding  
 
 ---
 
@@ -64,20 +46,3 @@ clean backend architecture and real-world usability.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchauhan7878&repo=etl-engine&theme=tokyonight)](https://github.com/himanshuchauhan7878/etl-engine)
 - Designed ETL workflows and transformations  
 - Practical data engineering exposure  
-
----
-
-## 🎯 Current Focus
-- Advanced AI & Machine Learning systems  
-- Backend scalability & system design  
-- Production-grade full-stack applications  
-
----
-
-## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/himanshu-chauhan1/
-- 🌐 GitHub: https://github.com/himanshuchauhan7878
-
----
-
-⭐ *Focused on depth, clarity, and impact.*
