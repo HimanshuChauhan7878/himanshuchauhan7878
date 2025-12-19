@@ -19,19 +19,20 @@
 ---
 
 ## 🚀 Who am I?
-I’m an **Integrated M.Tech (AI)** student at VIT Bhopal who enjoys building
-**intelligent systems** that actually work in the real world.
+I’m an **Integrated M.Tech (AI)** student at VIT Bhopal who enjoys working on
+**applied AI systems** with real-world relevance.
 
-I like projects where **AI meets engineering** — automation, computer vision,
-and applied machine learning with measurable impact.
+I like projects where **data quality, intelligent models, and solid engineering**
+come together — especially in automation and computer vision.
 
 ---
 
 ## 🧠 What I’m Good At
-- Designing ML pipelines and experimenting with models  
+- Cleaning, preprocessing, and analyzing data using **Python**
+- Working with **NumPy, Pandas, Matplotlib, SciPy** for data preparation and visualization  
 - Computer vision systems (real-time + deep learning)  
 - Automation using Python, Selenium, and APIs  
-- Strong fundamentals in CS (DSA, DBMS, OS, OOP)  
+- Strong CS fundamentals (DSA, DBMS, OS, OOP)  
 
 ---
 
@@ -60,11 +61,12 @@ trained on a custom dataset and achieving **98% accuracy**.
 
 ## 🛠 Tech I Use
 <p>
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Python-Strong-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/NumPy-Pandas-Data%20Prep-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Matplotlib-SciPy-Visualization-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Java-Strong-orange?style=flat-square&logo=java"/>
   <img src="https://img.shields.io/badge/C++-Good-blue?style=flat-square&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Active-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=flat-square"/>
   <img src="https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=git"/>
 </p>
 
@@ -87,9 +89,9 @@ trained on a custom dataset and achieving **98% accuracy**.
 ---
 
 ## 🤝 Let’s Build Something Cool
-If you’re into **AI, automation, or impactful tech**,  
+If you’re into **AI, data, or automation**,  
 feel free to reach out — I’m always open to collaboration.
 
 <p align="center">
-  <i>Build things. Break them. Learn fast.</i>
+  <i>Build things. Learn fast. Ship responsibly.</i>
 </p>
